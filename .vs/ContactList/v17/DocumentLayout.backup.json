@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\binla\\Downloads\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|c:\\users\\binla\\downloads\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|c:\\users\\binla\\downloads\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|c:\\users\\binla\\downloads\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C6839-C422-4D12-ADDF-439571B5BF5F}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeToolTip": "ContactList\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:11:02.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
-              "ToolTip": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\Users\\binla\\Downloads\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:07:24.269Z",
               "EditorCaption": " [Design]"
